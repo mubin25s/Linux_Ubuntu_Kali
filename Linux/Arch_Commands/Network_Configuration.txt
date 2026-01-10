@@ -1,0 +1,11 @@
+# Arch Network Configuration
+
+- ip link: Show network interfaces
+- ip addr: Show IP addresses
+- nmcli device wifi list: List available Wi-Fi networks (NetworkManager)
+- nmcli device wifi connect [SSID] password [PASSWORD]: Connect to Wi-Fi
+- nmtui: Text User Interface for NetworkManager (Graphical-like)
+- iwctl: Interactive prompt for iwd (used in minimal installs)
+    > station [device] scan
+    > station [device] get-networks
+    > station [device] connect [SSID]
