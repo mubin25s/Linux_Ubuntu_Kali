@@ -1,26 +1,27 @@
 # 🖥️ Operating System Commands Reference
 
-A centralized reference of **Linux, macOS, and Windows command-line commands** — perfect for beginners and developers alike.
+A comprehensive **reference guide** of commonly used commands across major operating systems, including **Linux, macOS, and Windows** — plus useful Bash scripts.
 
 ## 📌 What’s Inside
-- Common **Linux terminal commands**
-- Common **Windows CMD & PowerShell commands**
-- macOS **shell commands**
-- Bash scripts for practical tasks
-- Categorized by function (files, processes, users, networking)
-
-## 🚀 How to Use
-Browse folders and files by OS category, then open the command list you need. Each command entry includes:
-- Description
-- Syntax
-- Examples
+- Essential **Linux terminal commands**
+- Frequently used **macOS shell commands**
+- **Windows CMD & PowerShell** commands
+- Useful **Bash scripts**
+- Categorized by task (files, processes, networking, users)
 
 ## 🛠️ Technologies
-Markdown documentation + shell scripts
+Markdown documentation  
+Shell scripts (.sh)
 
-## 📈 Why This Repo
-This project helps you solidify essential Operating System command knowledge across platforms — great for study, interviews, and real-world use.
+## 🚀 How to Use
+1. Browse the folders (Linux, macOS, Windows)
+2. Open the relevant command list
+3. Copy & use commands in terminal or shell
 
----
+## 🎯 Purpose
+Created as a learning and reference project to solidify command-line skills across platforms.
+
+## 📌 Note
+This is a curated educational resource — ideal for students and developers, great for study, interviews, and real-world use.
 
 💡 *Tip:* Add examples you use most often and update with your own notes!
