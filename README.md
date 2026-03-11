@@ -1,27 +1,41 @@
-# 🖥️ Operating System Commands Reference
+# 🖥️ Operating System & Tools Reference
 
-A comprehensive **reference guide** of commonly used commands across major operating systems, including **Linux, macOS, and Windows** — plus useful Bash scripts.
+A centralized, comprehensive collection of essential commands and references for various Operating Systems and development tools. This project is designed for quick access to command-line utilities, system administration tasks, and version control.
 
-## 📌 What’s Inside
-- Essential **Linux terminal commands**
-- Frequently used **macOS shell commands**
-- **Windows CMD & PowerShell** commands
-- Useful **Bash scripts**
-- Categorized by task (files, processes, networking, users)
+## 📌 Features
+- **Categorized Reference**: Commands are organized by OS (Linux, Mac, Windows) and Tools (Git).
+- **Consolidated Documentation**: Detailed Markdown guides for each platform with tables and descriptions.
+- **Security & Pentesting**: Comprehensive coverage of Kali Linux tools and techniques.
+- **Package Management**: Deep dives into `apt`, `pacman`, `brew`, and `powershell` cmdlets.
+- **Shell Scripting**: Dedicated resources for automation and scripting.
 
-## 🛠️ Technologies
-Markdown documentation  
-Shell scripts (.sh)
+## 📂 Directory Structure
 
-## 🚀 How to Use
-1. Browse the folders (Linux, macOS, Windows)
-2. Open the relevant command list
-3. Copy & use commands in terminal or shell
+```text
+├── 📂 Git/
+│   └── 📄 git_commands.md       # Version control guide
+├── 📂 Linux/
+│   ├── 📂 Arch_Commands/
+│   │   └── 📄 arch_commands.md  # Pacman & AUR reference
+│   ├── 📂 Kali_Commands/
+│   │   └── 📄 kali_commands.md  # Penetration testing tools
+│   ├── 📂 Ubuntu_Commands/
+│   │   ├── 📄 ubuntu_commands.md# APT & Systemd management
+│   │   └── 📂 Shell scripting/  # Automation & bash scripts
+├── 📂 Mac/
+│   └── 📄 mac_commands.md       # macOS terminal & Homebrew
+└── 📂 Windows/
+    └── 📄 windows_commands.md    # CMD & PowerShell reference
+```
+
+## 🚀 Getting Started
+1. **Navigate**: Open the folder corresponding to the OS or tool you are using.
+2. **Reference**: Open the `.md` file to find categorized tables of commands.
+3. **Execute**: Copy the commands directly into your terminal or shell environment.
+
+## 🛠️ Built With
+- **Markdown**: For clean, structured, and readable documentation.
+- **Shell Scripting**: Custom scripts for automation found in the Linux/Ubuntu section.
 
 ## 🎯 Purpose
-Created as a learning and reference project to solidify command-line skills across platforms.
-
-## 📌 Note
-This is a curated educational resource — ideal for students and developers, great for study, interviews, and real-world use.
-
-💡 *Tip:* Add examples you use most often and update with your own notes!
+This repository serves as a "cheat sheet" for developers, system administrators, and students to quickly find and use cross-platform terminal commands without searching external documentation.

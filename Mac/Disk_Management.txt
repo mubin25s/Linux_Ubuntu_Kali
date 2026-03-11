@@ -1,9 +1,0 @@
-# macOS Disk Management Commands
-
-- diskutil: Disk utility for managing disks and volumes
-- df: Display free disk space
-- du: Estimate file space usage
-- mount: Mount a file system
-- umount: Unmount a file system
-- hdiutil: Manipulate disk images (.dmg files)
-- fsck: File system consistency check and interactive repair

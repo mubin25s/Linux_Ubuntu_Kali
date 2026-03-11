@@ -1,6 +1,0 @@
-whoami              # current user
-sudo command        # run as admin
-
-chmod 755 file.sh   # change permissions
-chmod +x file.sh    # make executable
-chown user file     # change owner

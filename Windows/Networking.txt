@@ -1,9 +1,0 @@
-# Windows Networking Commands
-
-- ipconfig: Display all current TCP/IP network configuration values
-- ping: Test the ability of the source computer to reach a specified destination computer
-- tracert: Determine the path taken to a destination
-- nslookup: Query DNS to obtain domain name or IP address mapping
-- netstat: Display active TCP connections, ports on which the computer is listening
-- getmac: Display the MAC addresses for all network adapters
-- nbtstat: Display protocol statistics and current TCP/IP connections using NBT (NetBIOS over TCP/IP)

@@ -1,8 +1,0 @@
-# Windows Disk Management Commands
-
-- diskpart: Manage disk partitions
-- chkdsk: Check a disk and display a status report
-- format: Format a disk
-- label: Create, change, or delete the volume label of a disk
-- vol: Display the disk volume label and serial number
-- defrag: Locate and consolidate fragmented files on local volumes to improve system performance

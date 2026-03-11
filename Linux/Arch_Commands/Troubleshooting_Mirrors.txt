@@ -1,8 +1,0 @@
-# Arch Logs & Troubleshooting (Systemd)
-
-- journalctl -p 3 -xb: Show errors from the current boot
-- journalctl -f: Follow logs in real-time
-- systemctl --failed: List all failed services
-- dmesg | grep -i error: Search kernel ring buffer for errors
-- checkupdates: Check for pending updates without syncing the database (requires pacman-contrib)
-- reflector --latest 5 --sort rate --save /etc/pacman.d/mirrorlist: Update mirror list with fastest mirrors

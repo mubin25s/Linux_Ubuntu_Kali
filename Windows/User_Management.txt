@@ -1,6 +1,0 @@
-# Windows User Management Commands
-
-- net user: Add, delete, or make changes to user accounts
-- net localgroup: Add, display, or modify local groups
-- whoami: Display current user, group and privileges information
-- runas: Run a program as a different user

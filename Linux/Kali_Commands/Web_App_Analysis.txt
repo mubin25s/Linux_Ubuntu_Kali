@@ -1,9 +1,0 @@
-# Web Application Analysis
-
-- sqlmap -u [url] --dbs: Automate SQL injection detection and exploitation
-- nikto -h [url]: Web server scanner (looks for outdated software, dangerous files)
-- burpsuite: Graphical tool for web app security testing (Proxy, Repeater)
-- gobuster dir -u [url] -w [wordlist]: Brute-force URIs (directories and files)
-- wpscan --url [url] --enumerate u: WordPress vulnerability scanner (enumerates users)
-- dirb [url] [wordlist]: Web content scanner
-- whatweb [url]: Identify the technology stack of a website

@@ -1,9 +1,0 @@
-# Sniffing & Spoofing Tools
-
-- wireshark: GUI network protocol analyzer (CLI: tshark)
-- tshark -i [interface] -w [outfile]: Capture packets from command line
-- bettercap -iface [iface]: The Swiss Army knife for network attacks (MITM, sniffing)
-- ettercap -T -q -i [iface] -M arp: ARP poisoning attack (text mode)
-- responder -I [iface]: Link-Local Multicast Name Resolution (LLMNR) poisoner
-- tcpdump -i [iface]: Dump traffic on a network
-- macchanger -r [iface]: Randomize MAC address for anonymity
